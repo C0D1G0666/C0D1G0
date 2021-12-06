@@ -1,0 +1,1 @@
+{ "name": "C0D1G0", "version": "9.9.9", "description": "No comment", "main": "C0D1G0.js", "scripts": { "start": "node C0D1G0.js" }, "dependencies": { "@adiwajshing/baileys": "^3.4.1" }}
